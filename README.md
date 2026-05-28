@@ -4,7 +4,7 @@ OAX-1B Humanoid LLM is an experimental 1B-parameter LLaMA-style language model d
 
 The model was designed as part of a broader humanoid robotics project that combines natural language interaction, active vision, object detection, robot state memory, and controller-based action validation. Unlike a general-purpose chatbot, OAX-1B Humanoid LLM focuses on converting user commands into structured outputs that can be interpreted and validated by a robotic control pipeline.
 
-The merged model is available on Hugging Face:
+The model is available on Hugging Face:
 
 **Hugging Face Model:**  
 https://huggingface.co/orhanaydinn/OAX-1B-Humanoid-Merged
