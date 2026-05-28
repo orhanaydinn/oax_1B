@@ -357,7 +357,6 @@ All physical robot actions should be checked by deterministic safety layers befo
 
 Developed by **Orhan Aydin**  
 MSc Artificial Intelligence and Data Science  
-Humanoid robotics, active vision, and custom LLM research
 
 ---
 
